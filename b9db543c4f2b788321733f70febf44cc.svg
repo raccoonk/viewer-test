@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="패스_8239" data-name="패스 8239" d="M0,0H32V32H0Z" transform="translate(-2.999 -2.999)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="in_dp" transform="translate(2.999 2.999)" clip-path="url(#clip-path)">
+    <path id="패스_8238" data-name="패스 8238" d="M19.546,14.387a1.754,1.754,0,0,0-1.755,1.755v2.632H5.509V16.141a1.755,1.755,0,0,0-3.509,0v4.387a1.76,1.76,0,0,0,1.755,1.755H19.546A1.76,1.76,0,0,0,21.3,20.528V16.141A1.754,1.754,0,0,0,19.546,14.387ZM16.914,10H6.387a1.76,1.76,0,0,0-1.755,1.755v1.891a2.631,2.631,0,0,1,1.755,2.47V17.9H16.914V16.115a2.631,2.631,0,0,1,1.755-2.47V11.755A1.76,1.76,0,0,0,16.914,10Z" transform="translate(1.35 -3.14)" fill="#fff"/>
+  </g>
+</svg>

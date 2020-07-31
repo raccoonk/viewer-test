@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="a_highlight" transform="translate(-32 -136)">
+    <path id="패스_8308" data-name="패스 8308" d="M0,0H32V32H0Z" transform="translate(32 136)" fill="none"/>
+    <g id="list-24px" transform="translate(36 140)">
+      <path id="패스_8309" data-name="패스 8309" d="M3,13H5V11H3Zm0,4H5V15H3ZM3,9H5V7H3Zm4,4H21V11H7Zm0,4H21V15H7ZM7,7V9H21V7Z" fill="#fff"/>
+      <path id="패스_8310" data-name="패스 8310" d="M0,0H24V24H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="in_map" transform="translate(3 3)">
+    <path id="패스_618" data-name="패스 618" d="M6.111,5h5.556v5.556H5V6.111A1.111,1.111,0,0,1,6.111,5Z" transform="translate(0.222 0.222)" fill="#fff"/>
+    <path id="패스_619" data-name="패스 619" d="M13,5h5.556a1.111,1.111,0,0,1,1.111,1.111V19.444a1.111,1.111,0,0,1-1.111,1.111H13Z" transform="translate(1.111 0.222)" fill="#fff"/>
+    <path id="패스_620" data-name="패스 620" d="M5,12h6.667v7.778H6.111A1.111,1.111,0,0,1,5,18.667Z" transform="translate(0.222 1)" fill="#fff"/>
+    <rect id="사각형_1634" data-name="사각형 1634" width="32" height="32" transform="translate(-3 -3)" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="tour" style="width: 1000px;height: 800px; position: relative;"></div>
+  <div style="width:200px; height: 200px;" id="minimap"></div>
+<script src="./model/tour.json"></script>
+<script type="text/javascript" src="./js/main.js"></script>
+<script>
+  const element = document.getElementById('tour');
+  const tour = new Tour({
+    model: model.data,
+    element: element,
+    options: {},
+    mounted() {},
+    beforeCreate() {},
+    destroyed() {}
+  });
+</script>
+</body>
+
+</html>
